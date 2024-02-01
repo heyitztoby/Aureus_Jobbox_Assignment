@@ -1,5 +1,5 @@
 # About the project
-This is an app constructed for demo purposes of a job search application. The user can view various job listings and apply for the one which interest them.
+This is a Flutter app constructed for demo purposes of a job search application. The user can view various job listings and apply for the one which interest them.
 
 
 ## How to run the program
